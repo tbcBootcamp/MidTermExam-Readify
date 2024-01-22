@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Readify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_mail_hint">E - Mail</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="star">Star</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="link_text">Click to view</string>
+    <string name="e_mail_address">E-Mail\nAddress</string>
+    <string name="log_out">Log Out</string>
+    <string name="description">Description</string>
+</resources>
